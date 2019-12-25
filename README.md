@@ -1,6 +1,6 @@
-# first_app
+# Pokepet NameGen
 
-A new Flutter project.
+Generate names for your pokepets. (A new Flutter project)
 
 ## Getting Started
 
